@@ -1,12 +1,9 @@
-# Your Name Here
+# Deacon Steiner    
 # UWYO COSC 1010
-# Submission Date
-# Lab XX
-# Lab Section: 
+# 11/19/24
+# Lab 10
+# Lab Section: 11
 # Sources, people worked with, help given to: 
-# your
-# comments
-# here
 
 #import modules you will need 
 
