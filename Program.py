@@ -28,6 +28,6 @@ else:
             
             if hashed_pass == password_to_crack:
                 print(f"The password is: {line}")
-                
+                break
             else:
                 continue
